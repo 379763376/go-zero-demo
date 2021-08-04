@@ -1,6 +1,6 @@
 type (
 	LoginReq {
-		Username string `json:"username"`
+		Number string `json:"username"`
 		Password string `json:"password"`
 	}
 
